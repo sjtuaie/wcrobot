@@ -1,4 +1,2 @@
 # wcrobot
-
-WeChat Robot for SJTUAIE
-test now
+A wechat robot servers for SJTUAIE using WeRoBot.
